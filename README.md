@@ -32,6 +32,10 @@ Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Sema
 
   + [firodev](https://t.me/firodev)
   
+  ### Komunitas OpenSource
+  
+  + [Dinus OpenSource Community](https://t.me/doscomedia)
+  
 
 
 
