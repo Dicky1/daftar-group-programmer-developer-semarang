@@ -1,4 +1,4 @@
-# Daftar Group Programmer & Developer Semarang
+# Daftar Komunitas Programmer & Developer Semarang
 
 Kumpulan Link dan Group Telegram untuk belajar tentang pemprograman di Kota Semarang
 
